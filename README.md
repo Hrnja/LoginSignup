@@ -1,12 +1,19 @@
-#LoginSignup
+LoginSignup
 
 
 Android application
 
 --------------------------------------------------------------------
-#-Kotlin
-#-Room Database
-#-MVVM
+
+
+-Kotlin
+
+
+-Room Database
+
+
+-MVVM
+
 
 --------------------------------------------------------------------
 LoginSignup is android application written in Kotlin. This application use Room database for saving user and RecyclerView for showing user after registration.
