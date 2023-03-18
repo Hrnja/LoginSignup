@@ -1,4 +1,4 @@
-#LoginSignup
+LoginSignup
 Android application
 
 --------------------------------------------------------------------
